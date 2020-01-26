@@ -5,7 +5,7 @@ namespace square_every_digit
     /// <summary>
     /// https://www.codewars.com/kata/5264d2b162488dc400000001
     /// </summary>
-    public class Kata
+    class Kata
     {
 
         public static int SquareDigits(int n)
