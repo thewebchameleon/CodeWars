@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{EA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove-all-marked-elements-of-list", "remove-all-marked-elements-of-list\remove-all-marked-elements-of-list.csproj", "{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "century-from-year", "century-from-year\century-from-year.csproj", "{AD91AA04-C492-4FBD-A537-4C78AFE40EF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD91AA04-C492-4FBD-A537-4C78AFE40EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD91AA04-C492-4FBD-A537-4C78AFE40EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD91AA04-C492-4FBD-A537-4C78AFE40EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD91AA04-C492-4FBD-A537-4C78AFE40EF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
