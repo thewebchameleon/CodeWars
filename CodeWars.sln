@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stop-gninnips-my-sdrow", "stop-gninnips-my-sdrow\stop-gninnips-my-sdrow.csproj", "{3B41883A-29D6-4D1A-B232-55965BF342F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stop-gninnips-my-sdrow", "stop-gninnips-my-sdrow\stop-gninnips-my-sdrow.csproj", "{3B41883A-29D6-4D1A-B232-55965BF342F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square-every-digit", "square-every-digit\square-every-digit.csproj", "{8F873A61-7C13-4AB5-8F7F-D3FB09E775D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "square-every-digit", "square-every-digit\square-every-digit.csproj", "{8F873A61-7C13-4AB5-8F7F-D3FB09E775D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "who-likes-it", "who-likes-it\who-likes-it.csproj", "{0E6A6E9E-F950-4BFF-8BC0-C7D1CB688CDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "who-likes-it", "who-likes-it\who-likes-it.csproj", "{0E6A6E9E-F950-4BFF-8BC0-C7D1CB688CDD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{EA844741-9239-4732-8451-8EE017D05365}"
 	ProjectSection(SolutionItems) = preProject
@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{EA
 		.gitignore = .gitignore
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove-all-marked-elements-of-list", "remove-all-marked-elements-of-list\remove-all-marked-elements-of-list.csproj", "{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +36,10 @@ Global
 		{0E6A6E9E-F950-4BFF-8BC0-C7D1CB688CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E6A6E9E-F950-4BFF-8BC0-C7D1CB688CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E6A6E9E-F950-4BFF-8BC0-C7D1CB688CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34968B1-2422-4BE9-8318-BA6A18DBBEF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
